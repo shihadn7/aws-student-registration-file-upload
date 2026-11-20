@@ -1,0 +1,8 @@
+ZIP TRANSFER / DEPLOYMENT EVIDENCE
+1. Screenshot local ZIP file in Windows Downloads/Desktop.
+2. Screenshot PowerShell scp command and successful transfer output (hide private key path if desired).
+3. Screenshot EC2 unzip command and extracted project files.
+4. Screenshot .env configuration with passwords masked.
+5. Screenshot pip install and database initialization output.
+6. Screenshot Gunicorn / reverse proxy service running.
+7. Screenshot website registration, RDS records, and S3 file retrieval.
